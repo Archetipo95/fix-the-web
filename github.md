@@ -4,7 +4,8 @@
 
 Display the activity map starting from Monday to Sunday, instead of Sunday to Saturday.
 
-![Example image]()
+<img width="756" alt="Screenshot 2024-08-23 at 14 04 45" src="https://github.com/user-attachments/assets/42055734-dcd8-4520-8581-586fe1aa573f">
+
 
 ```
 	/* when the activity overview is enabled the grid rects are 10px * 10px (3px spacing) */
